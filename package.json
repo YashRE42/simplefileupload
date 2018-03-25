@@ -1,0 +1,22 @@
+{
+  "name": "simple-file-upload",
+  "version": "1.0.0",
+  "description": "supports multi-part upload",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashRE42/simplefileupload.git"
+  },
+  "author": "Yash RE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashRE42/simplefileupload/issues"
+  },
+  "homepage": "https://github.com/YashRE42/simplefileupload#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
