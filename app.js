@@ -1,9 +1,12 @@
 const express = require('express');
 const multer = require('multer');
 const path = require('path');
+const cors = require('cors');
 const app = express();
 
 let fileName;
+
+app.use(cors());
 
 app.set("view engine","ejs");
 
