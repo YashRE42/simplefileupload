@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/YashRE42/simplefileupload#readme",
   "dependencies": {
-    "express.js": "^1.0.0"
+    "express.js": "^1.0.0",
+    "multer": "^1.3.0"
   }
 }
